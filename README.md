@@ -12,10 +12,11 @@ This application exposes API endpoints and JSON data are exchanded with HTTP req
  - RESTful Microservices
 
 ## Tech Stack
-Athe the time of the build I have used the bellow technologies
+At the time of the build I have used the bellow technologies
 |Technology|Version  |
 |--|--|
 | JDK | 11 |
+| Maven | 3.6.1 |
 | Spring Boot | 2.3.8 |
 
 ### Dependencies Used in Spring Boot
